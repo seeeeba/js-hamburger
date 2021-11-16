@@ -1,6 +1,6 @@
 // assegnazione costanti
 
-const navBarMenu = document.querySelector('.header-right');
+const navBarMenu = document.querySelector('.header-right>a');
 const hamburgerMenu = document.querySelector('.hamburger-menu');
 const navClose = document.querySelector('.hamburger-menu .close')
 
